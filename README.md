@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afelix-95, a Materials and Chemical Engineer now turned Software Developer
+- 👋 Hi, I’m @afelix-95, a Chemistry and Materials MEng now turned Software Developer
 - 👀 I’m interested in programming 💻 (no matter what language), video games 🎮, hiking 🚶🏻‍♂️🚵🏻‍♂️ and trying new cuisines 😋
 - 🌱 I’m currently learning Python, C/C++ and SQL
 - 💞️ I’m looking to collaborate on any projects that require thinking out of the box, regardless of field and subject ;)
