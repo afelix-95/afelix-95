@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that require thinking out of the box, regardless of field and subject :)
 - 📫 How to reach me: felix.alison@outlook.com
 - 😄 Pronouns: He/Him/His/Himself
-- ⚡ Fun fact: I once got lost in Hollywood Hills and I might have unknowingly trespassed on a celebrity's property while trying to find my way back to the car 😅
+- ⚡ Fun fact: Once I got lost in Hollywood Hills and I might have unknowingly trespassed on a celebrity's property while trying to find my way back to the car 😅
 
 <!---
 afelix-95/afelix-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
